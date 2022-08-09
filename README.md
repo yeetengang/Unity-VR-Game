@@ -5,16 +5,16 @@ Our Memories is a mobile VR game application developed using Google VR SDK. Play
 ## Game Screenshot
 
 ### Study Room
-<img src="https://github.com/yeetengang/Unity-VR-Game/blob/main/Images/StudyRoom.PNG" height="500"/>
+<img src="https://github.com/yeetengang/Unity-VR-Game/blob/main/Images/StudyRoom.PNG"/>
 
 ### Bedroom
-<img src="https://github.com/yeetengang/Unity-VR-Game/blob/main/Images/Bedroom.PNG" height="500"/>
+<img src="https://github.com/yeetengang/Unity-VR-Game/blob/main/Images/Bedroom.PNG"/>
 
 ### Bathroom
-<img src="https://github.com/yeetengang/Unity-VR-Game/blob/main/Images/Bathroom.PNG" height="500"/>
+<img src="https://github.com/yeetengang/Unity-VR-Game/blob/main/Images/Bathroom.PNG"/>
 
 ### Living Room
-<img src="https://github.com/yeetengang/Unity-VR-Game/blob/main/Images/Living%20Room.PNG" height="500"/>
+<img src="https://github.com/yeetengang/Unity-VR-Game/blob/main/Images/Living%20Room.PNG"/>
 
 ## Control
 
